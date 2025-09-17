@@ -38,7 +38,7 @@ This project uses **Next.js** for the frontend dashboard and **Python (Jupyter N
 
 Check out the live demo here:  
 **[Vercel Deployment Link](https://student-dashboard-delta-five.vercel.app/)**
-**[Email](kjtayesha13@gmail.com)**
+
 ---
 
 ## 📂 Dataset

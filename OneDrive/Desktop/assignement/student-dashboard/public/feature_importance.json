@@ -1,0 +1,22 @@
+[
+  {
+    "Feature": "comprehension",
+    "Importance": 0.3616198181430737
+  },
+  {
+    "Feature": "attention",
+    "Importance": 0.25206360653634735
+  },
+  {
+    "Feature": "focus",
+    "Importance": 0.19808240593782495
+  },
+  {
+    "Feature": "retention",
+    "Importance": 0.15703754193709274
+  },
+  {
+    "Feature": "engagement_time",
+    "Importance": 0.031196627445661276
+  }
+]

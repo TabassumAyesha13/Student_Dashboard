@@ -1,0 +1,23 @@
+[
+  {
+    "comprehension": 59.53288888888889,
+    "attention": 72.65744444444444,
+    "focus": 63.393,
+    "retention": 57.67366666666666,
+    "engagement_time": 166.962
+  },
+  {
+    "comprehension": 82.13396551724138,
+    "attention": 60.46810344827586,
+    "focus": 79.91672413793104,
+    "retention": 74.22810344827586,
+    "engagement_time": 174.11672413793104
+  },
+  {
+    "comprehension": 73.77153846153847,
+    "attention": 60.54346153846154,
+    "focus": 35.568653846153836,
+    "retention": 73.47384615384615,
+    "engagement_time": 212.77826923076924
+  }
+]
